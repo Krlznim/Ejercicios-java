@@ -21,7 +21,6 @@ public class Reto0 {
         Reto0 reto = new Reto0();
         reto.run();
     }
-
     public void run() {
         Calculadora calculadora = new Calculadora();
 
